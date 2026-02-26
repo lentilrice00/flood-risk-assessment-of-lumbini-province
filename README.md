@@ -40,7 +40,7 @@ Step 8
                             Proximity to Stream: 30%
 
 Step 9
-** Finally, reclassified the weighted raster in 5 classes **
+**Finally, reclassified the weighted raster in 5 classes**
             1 => very low risk
             2 => low risk
             3 => moderate risk
