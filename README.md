@@ -5,10 +5,7 @@ The resulting map highlights flood prone areas. This provides valuable insights 
 <hr>
 
 Required raster data for Flood Risk Assessment were downloaded from USGS Earth Explorer.
-<br>
-<br>
 
-**Procedure Followed**
 <hr>
 
 Step 1: Imported ShapeFile of Study Area
