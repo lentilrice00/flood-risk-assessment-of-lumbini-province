@@ -1,5 +1,9 @@
 # flood-risk-assessment-of-lumbini-province
 
+This project demonstrates a comprehensive **Flood Risk Assessment** conducted for **Lumbini Province, Nepal**, using advanced GIS and spatial analysis tools in **ArcGIS Desktop**. A **multi-criteria evaluation** approach was used, integrating several spatial parameters that influence flood vulneribility. <br>
+The resulting map highlights flood prone areas. This provides valuable insights for, **Disaster Risk Management Agencies**, **Urban & Regional Planners and Environmental Researchers**.
+<hr>
+
 Required raster data for Flood Risk Assessment were downloaded from USGS Earth Explorer.
 <br>
 <br>
