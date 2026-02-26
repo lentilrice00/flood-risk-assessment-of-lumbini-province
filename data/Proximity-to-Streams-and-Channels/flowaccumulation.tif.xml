@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20251018</CreaDate><CreaTime>21233300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\FlowAccumulation" Date="20251018" Time="212333">FlowAccumulation flowdirection.tif "D:\Skills Learning\ArcGIS\Projects\Flood Assessment\Data\Proximity to Streams and Channels\flowaccumulation.tif" # FLOAT D8</Process></lineage></DataProperties></Esri></metadata>
